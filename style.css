@@ -1,0 +1,54 @@
+h1,u1,h2{
+    display: inline;
+    padding: 30px;
+    margin: 30px;
+}
+u1{
+    margin: 20%;
+}
+h2{
+    background-color: black;
+    color: white;
+}
+.img{
+    margin: 20px;
+    padding: 15px; 
+}
+.img h1,.img p,.img h2{
+    position: absolute;
+    color: white;
+}
+.img h1 {
+    top: 25%;
+    left: 5%;
+}
+.img p{
+    top: 40%;
+    left: 8%;
+}
+.img h2{
+    top: 50%;
+    left: 5%;
+    background-color: black;
+}
+.img1{
+    display: flex;       
+    margin-left: 5%;
+    padding: 20px;
+}
+
+.img1 l1{  
+    margin: 0;     
+    text-align: left; 
+}
+.img1 h3{
+    background-color: black;
+    color:white;
+}
+button{
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+
